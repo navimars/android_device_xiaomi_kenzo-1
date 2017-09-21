@@ -27,7 +27,11 @@ PRODUCT_COPY_FILES += \
 
 # Fingerprint
 PRODUCT_PACKAGES += \
+<<<<<<< HEAD
+    fingerprint.qcom
+=======
     android.hardware.biometrics.fingerprint@2.1-service.2.0
+>>>>>>> eed530e... kenzo: Build legacy fingerprint service
 
 # Input
 PRODUCT_COPY_FILES += \
